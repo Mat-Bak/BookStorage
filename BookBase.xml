@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BooksBase>
+    <Book>
+        <ID>1</ID>
+        <Title>Summoner</Title>
+        <Author>Taran Matharu</Author>
+        <Publishing>Feiwel and Friends</Publishing>
+        <Year>2015</Year>
+        <Count>7</Count>
+    </Book>
+
+    <Book>
+        <ID>2</ID>
+        <Title>Harry Potter and the Philosopher's Stone</Title>
+        <Author>Rowling J. K.</Author>
+        <Publishing>Bloomsbury Publishing</Publishing>
+        <Year>2015</Year>
+        <Count>3</Count>
+    </Book>
+
+    <Book>
+        <ID>3</ID>
+        <Title>Harry Potter and the Chamber of Secrets</Title>
+        <Author>Rowling J. K.</Author>
+        <Publishing> Houghton Mifflin Harcourt</Publishing>
+        <Year>2012</Year>
+        <Count>8</Count>
+    </Book>
+
+    <Book>
+        <ID>4</ID>
+        <Title>The Hobbit</Title>
+        <Author>J. R. R. Tolkien </Author>
+        <Publishing>Bloomsbury Publishing</Publishing>
+        <Year>2014</Year>
+        <Count>2</Count>
+    </Book>
+
+    <Book>
+        <ID>5</ID>
+        <Title>The Fellowship of the Ring</Title>
+        <Author>J. R. R. Tolkien</Author>
+        <Publishing>Bloomsbury Publishing</Publishing>
+        <Year>2020</Year>
+        <Count>1</Count>
+    </Book>
+
+    <Book>
+        <ID>6</ID>
+        <Title>STAR WARS REBEL</Title>
+        <Author>Crispin Ann C.</Author>
+        <Publishing>Bantam Books</Publishing>
+        <Year>1998</Year>
+        <Count>12</Count>
+    </Book>
+
+    <Book>
+        <ID>7</ID>
+        <Title>The Poppy War</Title>
+        <Author>Kuang Rebecca F.</Author>
+        <Publishing>Harper Collins Publishers</Publishing>
+        <Year>2018</Year>
+        <Count>4</Count>
+    </Book>
+
+    <Book>
+        <ID>8</ID>
+        <Title>Good Omens</Title>
+        <Author>Pratchett Terry</Author>
+        <Publishing>Transworld</Publishing>
+        <Year>2014</Year>
+        <Count>6</Count>
+    </Book>
+
+    <Book>
+        <ID>9</ID>
+        <Title>The Necronomicon</Title>
+        <Author>Lovecraft Howard Phillips</Author>
+        <Publishing>ORION</Publishing>
+        <Year>2008</Year>
+        <Count>3</Count>
+    </Book>
+
+    <Book>
+        <ID>10</ID>
+        <Title>The Institute</Title>
+        <Author>King Stephen</Author>
+        <Publishing>Hodder and Stoughton</Publishing>
+        <Year>2020</Year>
+        <Count>9</Count>
+    </Book>
+
+</BooksBase>
