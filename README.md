@@ -1,4 +1,4 @@
-# Sample GitLab Project
+# BookStorage Application
 <h3>This simple application is to storage books. There are four buttons and table with information about books. </h3>
 <p align="center">
   <img width="100%" height="auto" src="Images/Library.jpg">
